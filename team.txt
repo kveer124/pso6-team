@@ -2,4 +2,4 @@ Team members: ocampon33 and kveer124
 
 Favorite programming language: TBD
 
-Team motto: Fight and win
+Team motto: Commit early, commit often
